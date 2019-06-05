@@ -5,18 +5,7 @@
       "value": "foods",
       "children": [
         { "value": "grains", "children": [] },
-        {
-          "value": "fruits",
-          "children": [
-            {
-              "value": "apples",
-              "children": [
-                { "value": "fuji", "children": [] },
-                { "value": "greenapple", "children": [] }
-              ]
-            }
-          ]
-        },
+        { "value": "fruits", "children": [] },
         {
           "value": "vegetables",
           "children": [{ "value": "squash", "children": [] }]
