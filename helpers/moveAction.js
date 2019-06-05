@@ -14,7 +14,7 @@ const handleMoveCmd = (cmd, dirTree) => {
             : children[i];
         }
       }
-      return `Cannot ${cmd} - ${value} does not exist`;
+      return `Cannot ${cmd.join(" ")} - ${value} does not exist`;
     }
   }, dirTree);
 
