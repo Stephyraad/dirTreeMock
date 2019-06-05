@@ -11,7 +11,7 @@ In your terminal clone the project locally and run the below node command:
   the files in `mock-inputs` are the input commands used by the script.
   - the program reads from a mock file located at:
     `./mock-inputs/commands.txt`
-  - the ``./mock-inputs/dirTreeTest.json` file is the finalle directory representation after all the commands in the commands.txt file have been executed.
+  - the ``./mock-inputs/dirTreeTest.json` file is the finalle directory tree data structure representation after all the commands in the commands.txt file have been executed.
 
 #### Screenshot of output:
 
